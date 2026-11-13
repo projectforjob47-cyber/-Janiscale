@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vscode
+.DS_Store
+.vercel
+.temp
+scratch
+*.tsbuildinfo
+cloudflared.exe
+*.log

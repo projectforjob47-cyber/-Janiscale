@@ -1,0 +1,4290 @@
+[
+  {
+    "empId": "22334428",
+    "fullName": "พาวิณี สุธาโพชย์",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "23506040",
+    "fullName": "ยามีอัน ศรีแสง",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30021651",
+    "fullName": "เมธัส โขมพัตร",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30025747",
+    "fullName": "รัชณีวรรณ เมืองฉิม",
+    "department": "BOL Audit",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30029538",
+    "fullName": "ธีรพันธ์ มากพงศ์",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30036967",
+    "fullName": "อมรรัตน์ สุภาวราพันธ์",
+    "department": "QA Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30041916",
+    "fullName": "อมลณดา เรืองโรจน์",
+    "department": "BOL Audit",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30048808",
+    "fullName": "หนึ่งฤทัย ดำเพ็ง",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30059731",
+    "fullName": "สุภาวรรณ สุขขาว",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30078516",
+    "fullName": "ศิริรัตน์ จันทร์ทอง",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30080972",
+    "fullName": "วรวิช นราประเสริฐวงศ์",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "30081302",
+    "fullName": "อนงค์นาถ เวชศาสตร์",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0069643",
+    "fullName": "รัตนา ถิ่นสะท้อน",
+    "department": "BOL Audit",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0155380",
+    "fullName": "สุฌาวดี ศรีพุฒ",
+    "department": "BOL Audit",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186095",
+    "fullName": "ภาณุพงษ์ จันทร์เพชร",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186096",
+    "fullName": "ศักดิ์ดา แซ่ซิ้ม",
+    "department": "DC People Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186097",
+    "fullName": "ภัทร พยุหะ",
+    "department": "DC ER Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186098",
+    "fullName": "ศยภัทร เดชสองแพรก",
+    "department": "DC Payroll Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186099",
+    "fullName": "วีรพงศ์ ทำศรี",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186100",
+    "fullName": "ณัฐพงศ์ ปานศิริ",
+    "department": "DC Safety Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186101",
+    "fullName": "อารดา เวียงสงค์",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186102",
+    "fullName": "ธันย์ชนก บัวสวัสดิ์",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186103",
+    "fullName": "ปัญชลิกา ไชยแก้ว",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186104",
+    "fullName": "พิศรดี พุทธคุณ",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186105",
+    "fullName": "เสาวลักษณ์ ศรีบุรุษ",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186106",
+    "fullName": "น้ำฝน ชัยสิทธิ์",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186107",
+    "fullName": "ธกร ศรประสม",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186108",
+    "fullName": "เชาว์ สร้อยทอง",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186109",
+    "fullName": "วัชรินทร์ วิชัยดิษฐ์",
+    "department": "DC Operation Support Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186111",
+    "fullName": "จักรกฤษณ์ ดำเพ็ง",
+    "department": "DC Inventory Management Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186112",
+    "fullName": "ฉัตรชรินทร์ อินทอง",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186113",
+    "fullName": "เตชินี จันทร์อุดม",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186114",
+    "fullName": "ปิยธิดา รัตนพันธุ์เศรษฐ์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186115",
+    "fullName": "ชิดชัย บัวผาย",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186116",
+    "fullName": "คณิน หนูยิ้มซ้าย",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186117",
+    "fullName": "ธิดาพร เศรษฐเชื้อ",
+    "department": "DC Planning & Performance Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186118",
+    "fullName": "ปิยวดี ทิพย์บรรพต",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186119",
+    "fullName": "ภิรมย์ยา เศรษฐเชื้อ",
+    "department": "DC Equipment Operation Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186120",
+    "fullName": "สุภาภรณ์ แก้วสกุล",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186121",
+    "fullName": "อุไรวรรณ์ บุรีจันทร์",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186122",
+    "fullName": "อมรรัตน์ อินทร์พรหม",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186123",
+    "fullName": "ปาริชาติ คงทิพย์",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186124",
+    "fullName": "คธายุทธ์ ลิ้มสกุล",
+    "department": "DC Facility Management Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186126",
+    "fullName": "วิลัยศักดิ์ กายทอง",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186127",
+    "fullName": "นิ่มนวล มากมี",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186128",
+    "fullName": "เก่ง เฉลยพรต",
+    "department": "DA Officer",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186129",
+    "fullName": "สาธิต พลับบดี",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186130",
+    "fullName": "นัทพงษ์ กายทอง",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186131",
+    "fullName": "ปัณฑิตา ภูมิไชยา",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186132",
+    "fullName": "จุฑามาศ ชูยงค์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186133",
+    "fullName": "จงศักดิ์ จินาชาญ",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186134",
+    "fullName": "เกียรติศักดิ์ อินทร์พรหม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186135",
+    "fullName": "ธิดารัตน์ สุพรรณพงค์",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186136",
+    "fullName": "สุดาทิพย์ สุขอ่อน",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186137",
+    "fullName": "ยุพิน ใหมนวล",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186138",
+    "fullName": "ไพรัตน์ ตำแหน่งจีน",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186139",
+    "fullName": "ภรณ์นรินทร์ พัชรธนาธร",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186140",
+    "fullName": "กาญจนา แก้วกาญจน์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186141",
+    "fullName": "ทศพร อินทรสมบัติ",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186142",
+    "fullName": "สุชิน สมนาม",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186143",
+    "fullName": "นพดล พัฒนชาญเลิศ",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186144",
+    "fullName": "ณัฐธิดา แต้มต่อผล",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186145",
+    "fullName": "รัชนีกร ใหม่ซ้อน",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186146",
+    "fullName": "วาทินี โยธา",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186147",
+    "fullName": "สุโชค ชูประเสริฐ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186151",
+    "fullName": "สุรชัย วาดวงปราง",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186152",
+    "fullName": "สุดารัตน์ สวัสดิ์ศรี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186153",
+    "fullName": "ภานุวัฒน์ วิชัยดิษฐ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186154",
+    "fullName": "มยุรี รวมธรรม",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186155",
+    "fullName": "ปริญญา ผดุงสมัย",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186156",
+    "fullName": "นัฐติยา สุวรรณนิมิตร",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186157",
+    "fullName": "กนกวรรณ เสือถม",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186158",
+    "fullName": "อนุวัฒน์ แก้วจันทา",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186160",
+    "fullName": "เสาวลักษณ์ ปานช่วย",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186161",
+    "fullName": "สุรินทร์ นเรนทร์ราช",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186162",
+    "fullName": "สุวัจนา ทองจันทร์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186163",
+    "fullName": "วนิดา พรหมสุรินทร์",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186164",
+    "fullName": "อุมาภรณ์ พุทธสุภะ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186165",
+    "fullName": "จุธาลักษณ์ สุทธินุ่น",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186167",
+    "fullName": "อัจฉรา มิ่งพิจารณ์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186168",
+    "fullName": "พิทยารัตน์ พัฒนศิลป์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186169",
+    "fullName": "พิชญา อึ้งประดิษฐ์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186170",
+    "fullName": "ชฎารัฐ ไตรมาศ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186171",
+    "fullName": "ก้อย เกียติพงศ์ยิ้ม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186172",
+    "fullName": "พรพิมล จิ๋วแหยม",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186173",
+    "fullName": "สุรสิทธิ์ จำนงจิต",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186174",
+    "fullName": "กิตติพงษ์ ศรีภักตรา",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186175",
+    "fullName": "ชนากานต์ วุ่นอ่อน",
+    "department": "DC HLE Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186176",
+    "fullName": "วัลภา ชัยเชื้อ",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186177",
+    "fullName": "ฐิติมา ประเสริฐสังข์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186178",
+    "fullName": "นิตยา หมวกสกุล",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186179",
+    "fullName": "จิตรา คงจร",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186180",
+    "fullName": "นิสาชล เตชา",
+    "department": "DC Safety Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186181",
+    "fullName": "ทินกร ฤกษ์เกิด",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186182",
+    "fullName": "สราวุฒิ เชื้อวัฒน์",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186184",
+    "fullName": "ธัญยรัตน์ เกลี้ยงมณี",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186187",
+    "fullName": "อภิวัฒน์ ทวีราษฎร์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186189",
+    "fullName": "กรรภิรมย์ อ่อนทอง",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186190",
+    "fullName": "อนุวัตร์ ชูสกุล",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186193",
+    "fullName": "สุกัญญารัตน์ อนุกูล",
+    "department": "Inbound Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186195",
+    "fullName": "บุญฤทธิ์ ชัยสีสรรค์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186196",
+    "fullName": "นภัสวรรณ จรรยา",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186197",
+    "fullName": "โอภาศ นาคคง",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186198",
+    "fullName": "บวรเดช พิทักษ์เรืองเวช",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186199",
+    "fullName": "นัฐวุฒิ พลชัยสงค์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186201",
+    "fullName": "ณฤทธิ์ แป้นคง",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186202",
+    "fullName": "อรอนงค์ จิตต์ซื่อ",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186203",
+    "fullName": "ชญานิษฐ์ สีนนตรี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186205",
+    "fullName": "นงลักษณ์ จันทร์สว่าง",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186207",
+    "fullName": "เกียรติศักดิ์ ศรีสมอ",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186208",
+    "fullName": "จักรพันธ์ ขาระคันไชย",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186209",
+    "fullName": "ประภัสศร แก้วจันทา",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186210",
+    "fullName": "อมร สำราญรื่น",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186211",
+    "fullName": "สุรีย์รัตน์ บุญวงษ์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186212",
+    "fullName": "อโนชา แสงสุขใส",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186213",
+    "fullName": "สุปราณี เกษมสุข",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186215",
+    "fullName": "จันทมาศ หนูสีดำ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186216",
+    "fullName": "ศิวพร ศรีใย",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186217",
+    "fullName": "เย็นฤดี ชิตเชื้อ",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186219",
+    "fullName": "ธวัชชัย ร่าหมาน",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186222",
+    "fullName": "กรรณิการ์ ศิริทรัพย์",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186224",
+    "fullName": "มาริสา วัฒนรัตน์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186225",
+    "fullName": "สุพัตรา เสนพิมพันธ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186226",
+    "fullName": "มัตติกา พรหมอุบล",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186228",
+    "fullName": "ปาณิสรา ราชพิบูลย์",
+    "department": "DC Planning & Performance Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186229",
+    "fullName": "สุพิศชา บุญชูวงศ์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186230",
+    "fullName": "ธนากร วันปู",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186231",
+    "fullName": "ทรรศนีย์ นวลศรี",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186232",
+    "fullName": "สุดารัตน์ เทือกทิพย์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186233",
+    "fullName": "ประภัสสร นิจจันทร์พันศรี",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186234",
+    "fullName": "ชุติมา หะสะเล็ม",
+    "department": "DC HLE Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186235",
+    "fullName": "วงศกร ทองประดู่",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186237",
+    "fullName": "กาญจนา สุขแสงงาม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186238",
+    "fullName": "พันทิพา เพ็ชรรัตน์",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186239",
+    "fullName": "เบญจมาศ พึ่งไทย",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186240",
+    "fullName": "ปัทมา บุญเอก",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186245",
+    "fullName": "นันทวุฒิ วงษ์สุวรรณ์",
+    "department": "DC People Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186246",
+    "fullName": "ธิติ คงทรัพย์",
+    "department": "DC S&LP Team Manager",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186247",
+    "fullName": "ยอดชาย ก้าหรีมล๊ะ",
+    "department": "DC Operation Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186248",
+    "fullName": "สหภพ ธรรมากาศ",
+    "department": "DC Analyst",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186284",
+    "fullName": "ปุญชิดา สุขบรรณรัต",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186514",
+    "fullName": "ขวัญชัย เกษแก้ว",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186516",
+    "fullName": "หนึ่งฤทัย หนอนไม้",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186517",
+    "fullName": "ณัฐนันท์ สุวรรณจิตต์",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186518",
+    "fullName": "สิริวัชร ยิ้มแสงหยัด",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0188683",
+    "fullName": "อนุศรา โจมฤทธิ์",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0188816",
+    "fullName": "ศักรินทร์ นามตาปี",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S01S0371",
+    "fullName": "ธนศักดิ์ โสภา",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S01S0374",
+    "fullName": "แสงกฤษณ์ เกิดอุดม",
+    "department": "DC Facility Management Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S01S0377",
+    "fullName": "ฉัตรกมล ช่วยชนะ",
+    "department": "DC People Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S01S0378",
+    "fullName": "เบญจวรรณ คงตุก",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "704926",
+    "fullName": "สุธีร์ บุญโต",
+    "department": "DC General Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0192786",
+    "fullName": "อุรารัตน์ ศรีนิล",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0192787",
+    "fullName": "เวทิณี โสตถิยาภัย",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0192788",
+    "fullName": "พัฒฐชา เวชกามา",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0192789",
+    "fullName": "อัสนีย์ พานิชกุล",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193484",
+    "fullName": "เอกชัย สวัสดี",
+    "department": "DC Operation Shift Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193971",
+    "fullName": "ธิดารัตน์ คนบุญ",
+    "department": "Equipment Operation",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193973",
+    "fullName": "สุธาทิพย์ อรุณน้อย",
+    "department": "Equipment Operation",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193975",
+    "fullName": "กรณ์ สุทาวัน",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193976",
+    "fullName": "พลกฤต ภู่ขันเงิน",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193978",
+    "fullName": "ฟาริดา ศรีเพชรพูล",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193981",
+    "fullName": "รัตน์สมา คชสวัสดิ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193984",
+    "fullName": "ศิริยา ศิริบูรณ์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193985",
+    "fullName": "กิตติศักดิ์ จันทร์ก๊ก",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193987",
+    "fullName": "อภิชญา ศรีคำแหง",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193988",
+    "fullName": "พรชัย พิชิตพงศาภรณ์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0193989",
+    "fullName": "สนธยา เอียดแก้ว",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0194009",
+    "fullName": "จินดาพร ทองตำลึง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0194010",
+    "fullName": "อัสมา จามกิ่ง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0194012",
+    "fullName": "สริตา พรหมเพชรนิล",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0196007",
+    "fullName": "ชยพัทธ์ ชุมแดง",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0196009",
+    "fullName": "ณัฐวุฒิ อรุณสุข",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0196011",
+    "fullName": "พัชรินทร์ อนุไทย",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0196016",
+    "fullName": "ฮารีฟัส ดอเลาะ",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0196057",
+    "fullName": "รัตนวราภรณ์ นวลแก้ว",
+    "department": "DC Operation Team Manager",
+    "role": "OTM",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0197964",
+    "fullName": "ศรินทิพย์ สงฤทธิ์",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0197966",
+    "fullName": "รักษ์สิมา หนอนไม้",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0203445",
+    "fullName": "เกศวริน สุวิชา",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0209396",
+    "fullName": "กฤษกร คงแป้น",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0209374",
+    "fullName": "ปริชมน ไหวพริบ",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0209375",
+    "fullName": "บุณยนุช แก้วประสิทธิ์",
+    "department": "Graduate Option Trainee",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0211220",
+    "fullName": "เผ่ารินทร์ เอียดนิมิตร",
+    "department": "DC QC Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0324761",
+    "fullName": "KHAING HNIN PHYU",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324762",
+    "fullName": "WAI YEE SOE",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324763",
+    "fullName": "A MI SOE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324764",
+    "fullName": "AYE AYE PYONE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324794",
+    "fullName": "PA PA KHAING",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324795",
+    "fullName": "AUNG MYO WIN",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324798",
+    "fullName": "HLA MIN TUN",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324801",
+    "fullName": "THIHA KYAW SOE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324809",
+    "fullName": "MA AYE AYE MON",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324810",
+    "fullName": "AUNG THU",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324812",
+    "fullName": "NYO MIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324813",
+    "fullName": "PHYO HTET AUNG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324814",
+    "fullName": "AYE AUNG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324823",
+    "fullName": "ZAW MYO OO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324824",
+    "fullName": "SAN MIN NAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324825",
+    "fullName": "KYAW LIN PAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324826",
+    "fullName": "THANT ZIN WIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324831",
+    "fullName": "NU NU WIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324832",
+    "fullName": "ZIN MAR WIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324833",
+    "fullName": "SOE YU KHAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324838",
+    "fullName": "TUN ZAW OO",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324840",
+    "fullName": "KYAW KYAW MAUNG",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324841",
+    "fullName": "MIN MIN SOE",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324842",
+    "fullName": "AUNG THET PAING",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324845",
+    "fullName": "WAH WAH OO",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324846",
+    "fullName": "YE LIN AUNG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324848",
+    "fullName": "SAN WAI YAN OO",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324850",
+    "fullName": "NAING LIN OO",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324859",
+    "fullName": "SAN SAN AYE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324860",
+    "fullName": "ZUE ZUE HLAING",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324864",
+    "fullName": "YE THWE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324876",
+    "fullName": "CHAW SU KHINE",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324877",
+    "fullName": "AUNG SAN LINN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324878",
+    "fullName": "PAYE PHYO THWE",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324879",
+    "fullName": "AYE PHYO MNYEIN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324892",
+    "fullName": "NAY ZIN AUNG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324893",
+    "fullName": "KYAW MYO THANT",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324894",
+    "fullName": "WAI ZIN PHYO",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324895",
+    "fullName": "TUN TUN",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324903",
+    "fullName": "SAW MAUNG",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324906",
+    "fullName": "MYO SAN",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324907",
+    "fullName": "THIHA KYAW",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0324909",
+    "fullName": "CHIT KO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0358500",
+    "fullName": "HLA MIN HTAY",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0358499",
+    "fullName": "MA KHAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0358497",
+    "fullName": "HNIN SU HLAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0359046",
+    "fullName": "YE PHONE HTET AUNG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0359047",
+    "fullName": "SAW HTOO NAY SAY",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0359048",
+    "fullName": "NAING WIN KO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0359049",
+    "fullName": "NAY NANDA KYAW",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0359054",
+    "fullName": "TIN TIN MAR",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0360057",
+    "fullName": "MYAT THU",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0360058",
+    "fullName": "ZAW MYO WIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0360061",
+    "fullName": "EI EI KHAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0360063",
+    "fullName": "AYE AYE NEW",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378627",
+    "fullName": "TUN TUN WIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378628",
+    "fullName": "THIN PYANT LWIN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378629",
+    "fullName": "WIN THAUNG",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378630",
+    "fullName": "ZIN WAI PHYO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378631",
+    "fullName": "TIN TIN KHAING",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378632",
+    "fullName": "NYEIN NYEIN EI",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378633",
+    "fullName": "SEIN MOH MOH HLAING",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378634",
+    "fullName": "MYAT AKAIR KYAW",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378637",
+    "fullName": "NAW KAYIN SAY PHAW",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378641",
+    "fullName": "THAE EI PHYO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378642",
+    "fullName": "EI EI NYEIN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378643",
+    "fullName": "MAY ZIN OO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378644",
+    "fullName": "CHERRY PHYO",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378645",
+    "fullName": "ZAR ZAR SAN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378646",
+    "fullName": "KAN KAUNG",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378647",
+    "fullName": "MIN HTET KYAW",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378649",
+    "fullName": "MOH MOH MYINT",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378650",
+    "fullName": "WIN NAUNG OO",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378652",
+    "fullName": "AYE SU NAING",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378653",
+    "fullName": "WAI LINN SOE",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0378654",
+    "fullName": "SU MYAT MON",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382796",
+    "fullName": "SENGCHANH VILAVONG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382797",
+    "fullName": "BOUNSAVENG VILAVONG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382798",
+    "fullName": "NOY THAMMALAK",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382799",
+    "fullName": "SOMPHONE XAYCHALEUN",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382800",
+    "fullName": "KOM SATAPHET",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382801",
+    "fullName": "DAO SENGMANY",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382802",
+    "fullName": "KHAMNEN KEOSOPHA",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382803",
+    "fullName": "KHAO KONGKEOKONGMY",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382804",
+    "fullName": "BANDIT KEOSOPHA",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382805",
+    "fullName": "KHAMPASONG CHANTHASENH",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382806",
+    "fullName": "MALAYVANH KONGKHAM",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382807",
+    "fullName": "BOUNTHAVY SOULIYASONG",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382808",
+    "fullName": "SOMSANOUK SINGKALATH",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382809",
+    "fullName": "DETNAKHONE AMPHONE",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382810",
+    "fullName": "SIVONE KETMANY",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382811",
+    "fullName": "AE SOUKSANH",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382812",
+    "fullName": "BANG SOULIYAVONG",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382813",
+    "fullName": "BOUN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382816",
+    "fullName": "DAVONE AMPHONE",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382817",
+    "fullName": "PHIMMASEN LOUANGXAYMOUNGKHOUN",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382820",
+    "fullName": "SOUKCHAI LOUNLAVONGSA",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "S0382821",
+    "fullName": "SOMSY CHANTHAVYSOUK",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SDS_AEC",
+    "email": null
+  },
+  {
+    "empId": "SSMD0001",
+    "fullName": "กมลวรรณ แสงรักษ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0005",
+    "fullName": "บุญช่วย กำมะณี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0007",
+    "fullName": "จุฑามาส อินโท",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0009",
+    "fullName": "กัลยาณี นากิจ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0010",
+    "fullName": "ปิยธิดา เพชรรัตน์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0012",
+    "fullName": "ธัญญลักษณ์ ตรีเล็ก",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0017",
+    "fullName": "กมลชนก พุฒดำ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0022",
+    "fullName": "นัทริยา ยุทนาวา",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0023",
+    "fullName": "อธิวัฒน์ อยู่ยก",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0028",
+    "fullName": "สุมาลี ฉากพิมาย",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0029",
+    "fullName": "ปิยะดา วิโรจน์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0031",
+    "fullName": "ศิริประภา จันทร์สว่าง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0034",
+    "fullName": "ปรีญาวรรณ ศรีมาน้อย",
+    "department": "Receiving - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0036",
+    "fullName": "สราวุธ ทิพย์พิมล",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0038",
+    "fullName": "ธันธิญา พรศรี",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0041",
+    "fullName": "วิวัฒน์ เกลี้ยงแป้น",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0042",
+    "fullName": "ผกามาศ กำเหนิด",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0046",
+    "fullName": "วิสสุตา สุจจิต",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0052",
+    "fullName": "กัญญารัตน์ ธราพร",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0059",
+    "fullName": "วิรดา สมแจ้ง",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0061",
+    "fullName": "เกรียงไกร เมืองมณี",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0063",
+    "fullName": "วิลาสินี สุขสมัย",
+    "department": "PCC",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0066",
+    "fullName": "อัญมณี สารสุข",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0071",
+    "fullName": "ชลดา พ้นภัย",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0073",
+    "fullName": "ไชษิตา ทองบัว",
+    "department": "Equipment Operation",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0075",
+    "fullName": "สรศักดิ์ ปล้องชู",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0079",
+    "fullName": "ศศิธร บุญทรัพย์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0084",
+    "fullName": "พชรมน สังข์งาม",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0086",
+    "fullName": "อรอุมา ช่วยชนะ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0089",
+    "fullName": "ชัยวัฒน์ พิกุลทอง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0092",
+    "fullName": "ผกาพรรณ ชาติรักษา",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0103",
+    "fullName": "นิสรา หาญแก้ว",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0120",
+    "fullName": "กนิษฐา กลายกลาง",
+    "department": "DC HLE Supervisor",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0123",
+    "fullName": "เสาวลักษณ์ แซ่หลี",
+    "department": "PCC",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0138",
+    "fullName": "ทวีพร สิขรียะ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0151",
+    "fullName": "อาภาพร รังเสาร์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0163",
+    "fullName": "อดิศักดิ์ วงศ์แสน",
+    "department": "DC HLE Supervisor",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0181",
+    "fullName": "ธัญญา เสริมเจริญกิจ",
+    "department": "Equipment Operation",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0186",
+    "fullName": "สุพรทิพย์ นุ่นรักษา",
+    "department": "DC S&LP Supervisor",
+    "role": "LPS",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0189",
+    "fullName": "กัญญาณัฐ เชื้อทอง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0190",
+    "fullName": "ศิริพร เอี่ยมสำอางค์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0197",
+    "fullName": "อาทิตยา แหยมกลัด",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0198",
+    "fullName": "วันเพ็ญ ศฤงคาร",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0201",
+    "fullName": "กันตนา ช่วงชน",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0213",
+    "fullName": "ธวัชชัย จุลจงกล",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0220",
+    "fullName": "มัลลิกา หมื่นรินทร์",
+    "department": "PCC",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0226",
+    "fullName": "พุฒิพงศ์ จุลบล",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0228",
+    "fullName": "นพดล จันทร์มี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0229",
+    "fullName": "อดิเทพ มุกแก้ว",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0242",
+    "fullName": "หัสดิน นุ้ยภักดี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0243",
+    "fullName": "จอมคน พูลทวี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0245",
+    "fullName": "วรรณลี ทองสุข",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0246",
+    "fullName": "วัฒนา เรืองอุไร",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0252",
+    "fullName": "นริษา ใจกระจ่าง",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0274",
+    "fullName": "สมพงศ์ คงดี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0282",
+    "fullName": "ธนกร กลางรักษ์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0284",
+    "fullName": "ดวงธิดา ณรงค์ฤทธิ์",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0292",
+    "fullName": "สุภาวรรณ ฐานมั่น",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0296",
+    "fullName": "น้ำทิพย์ กรุยะ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0304",
+    "fullName": "สุนิวัฒน์ ชิตเชื้อ",
+    "department": "Transport",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0310",
+    "fullName": "สรวีย์ ดาสูงเนิน",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0317",
+    "fullName": "ศศิประภา ศิลาวน",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0322",
+    "fullName": "กัลยากร พงษ์อิ่ม",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0333",
+    "fullName": "พรรณวิภา รองสกุล",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0336",
+    "fullName": "มริสา สายแย้ม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0346",
+    "fullName": "เภาซี ภิไรงาม",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0350",
+    "fullName": "ทวีศักดิ์ อบเชย",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0369",
+    "fullName": "อรนันท์ พงศ์เตรียง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0376",
+    "fullName": "กฤติกา นาคแท้",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0380",
+    "fullName": "ศุภธันว์ คุ้มเขต",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0381",
+    "fullName": "ธนากร พรรษะ",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0384",
+    "fullName": "กมลวรรณ โกยวานิช",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0390",
+    "fullName": "สุปราณี ทองสุข",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0397",
+    "fullName": "ภคพล คงรัตน์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0410",
+    "fullName": "เสาวลักษณ์ สาหร่าย",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0414",
+    "fullName": "ทรงพล ศรีลาชัย",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0420",
+    "fullName": "ภูริณัฐ เงินสยาม",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0430",
+    "fullName": "กฤติน จินตพัฒน์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0431",
+    "fullName": "ปาณิศา สลัดแก้ว",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0440",
+    "fullName": "นพดล ฉิมกล่อม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0450",
+    "fullName": "ชยากร ผาโสม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0453",
+    "fullName": "ธนกฤต ณ ถลาง",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0459",
+    "fullName": "ภูวิศ นิจจันทร์พันศรี",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0464",
+    "fullName": "จักรธร ทองสุข",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0467",
+    "fullName": "รัชชานนท์ ฉิมพิมล",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0468",
+    "fullName": "สัณหรัฐ เทือแดง",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0473",
+    "fullName": "กิติพจน์ ศรีสวัสดิ์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0476",
+    "fullName": "กสิณ กาแก้ว",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0477",
+    "fullName": "เอกชัย อำนวยโรจนจินดา",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0478",
+    "fullName": "ณัฐนนท์ ธำรงไพโรจน์",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0481",
+    "fullName": "กรกช สุจจิต",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0482",
+    "fullName": "โชคดี บุญน้อย",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0483",
+    "fullName": "ธนพัต แก้วพินิช",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0485",
+    "fullName": "ปัณณธร พรามยินดี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0486",
+    "fullName": "จินดา แก้วบัตรดี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0487",
+    "fullName": "สุรศักดิ์ บุญแทน",
+    "department": "Transport",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0488",
+    "fullName": "ทวีศักดิ์ชัย เรืองชูกิจ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0489",
+    "fullName": "ธีรภัทร บุญเชนทร์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0490",
+    "fullName": "สุริยันต์ กลับรินทร์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0491",
+    "fullName": "ศุภณัฐ บุญแทน",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0492",
+    "fullName": "ภัทรานิษฐ์ ทิพย์มาก",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0493",
+    "fullName": "ณัฐวัชร ฉิมออน",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0494",
+    "fullName": "อนุสรณ์ สมทรัพย์",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0495",
+    "fullName": "ภานุวัฒน์ แสงบ้านยาง",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0496",
+    "fullName": "ปวริศ ชัยคง",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0497",
+    "fullName": "วีรภัทร อินแหยม",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0498",
+    "fullName": "ศุภณัฐ ลอยประเสริฐ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0500",
+    "fullName": "ณัฐวัตร เพ็ญจันทร์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0501",
+    "fullName": "นัธทวัฒน์ นาคเต",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0502",
+    "fullName": "อรทัย ปักปิ่น",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0503",
+    "fullName": "ณัฏฐพร โสภารัตน์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0504",
+    "fullName": "วราภรณ์ ปลอดกำ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0506",
+    "fullName": "ศิริวัฒน์ คงนุ่น",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0507",
+    "fullName": "ภัทรพล กาญจนเพ็ญ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0508",
+    "fullName": "ปรารถนา สุขนึก",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSMD0511",
+    "fullName": "จุฑารัตน์ ช่วยหอม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "MAN",
+    "email": null
+  },
+  {
+    "empId": "SSTM0031",
+    "fullName": "ทักษ์ดนัย สุขเกิด",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0062",
+    "fullName": "สิวลัย พิบูรณ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0067",
+    "fullName": "ดุลยวัต นาคบำรุง",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0073",
+    "fullName": "จารีวรรณ พันพัว",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0079",
+    "fullName": "ญดาวรรณ แซ่จู",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0089",
+    "fullName": "กนกพร อุไรโรจน์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0090",
+    "fullName": "นิภาพร กัลปา",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0094",
+    "fullName": "พรชัย พลูสวัสดิ์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0108",
+    "fullName": "อติกานต์ อ่อนหาดพอ",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0114",
+    "fullName": "สิริวิมล แซ่ลิ่ม",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0141",
+    "fullName": "กาญจณี สวัสดิกิจ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0146",
+    "fullName": "อภิสิทธิ์ ชัยชนะ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0149",
+    "fullName": "กาญจนา แสนไชย",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0153",
+    "fullName": "ดลฤดี ฤกษ์ดี",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0154",
+    "fullName": "ประดิษฐ์พงศ์ วิเศษสมบัติ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0155",
+    "fullName": "ธรรมนูญ สงอาจินต์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0167",
+    "fullName": "อภิชาต ยอดโมรา",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0178",
+    "fullName": "บัณฑิตา ไกรอ่อน",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0179",
+    "fullName": "พรรณพัช ทองห่อ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0181",
+    "fullName": "จิราวรรณ หน่วงเหนียว",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0198",
+    "fullName": "สุริยา ถามูลเลศ",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0205",
+    "fullName": "เบญจมาศ ช่วยเกิด",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0208",
+    "fullName": "ณัฐธิดา ดีวันวงค์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0209",
+    "fullName": "อภิญญา สมหวัง",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0211",
+    "fullName": "ทรนง พิชิตวนคาม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0245",
+    "fullName": "นูรณี อาแวบือซา",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0246",
+    "fullName": "อิสมาแอล ลาเต๊ะ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0259",
+    "fullName": "เกษรา อรุณพงศ์ไพบูลย์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0262",
+    "fullName": "เกษศิรินทร์ แก้วน้อย",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0266",
+    "fullName": "สุจิตรา พัดไสว",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0267",
+    "fullName": "เพชรรัตน์ แสนทวีสุข",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0278",
+    "fullName": "อรทัย ศรีมาลา",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0280",
+    "fullName": "ฐิติพร ทองจันทึก",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0282",
+    "fullName": "ธันวา อัยรัตน์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0283",
+    "fullName": "ธนชัย สุขช่วยชู",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0301",
+    "fullName": "สมชาย สุวรรณเมฆ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0333",
+    "fullName": "ปนัดดา แก้วคด",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0341",
+    "fullName": "ภูริภัทร คำสุวรรณ์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0344",
+    "fullName": "ถิรวุฒิ ธรรมนพรัตน์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0347",
+    "fullName": "นูรูลยาณี สะเอ๊ะ",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0348",
+    "fullName": "จินตนา อ่อนไสว",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0352",
+    "fullName": "สิทธิพงษ์ มีดี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0354",
+    "fullName": "พรชัย เพชรจรัส",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0355",
+    "fullName": "ประยูรศักดิ์ โมฬิ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0357",
+    "fullName": "ธนชิต อ้อยทอง",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0358",
+    "fullName": "สุทธิพงศ์ อนุจร",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0360",
+    "fullName": "ณัฐพล ทองปา",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0361",
+    "fullName": "ณฐมน เกียรติอนุกุล",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0362",
+    "fullName": "ศรัญญา แสนเพชร์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0363",
+    "fullName": "ลัดดาวรรณ มโนสงฆ์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0364",
+    "fullName": "สุพรรษา องอาจ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0365",
+    "fullName": "วริศรา เนตรสุริวงค์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0366",
+    "fullName": "ณัฐนรี ศรีสาคร",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0367",
+    "fullName": "สุรพล สุระชาติ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0368",
+    "fullName": "ณัฐภณ ช่วยสีสวัสดิ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0369",
+    "fullName": "ปิยภัทร ตุลพันธ์",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0370",
+    "fullName": "ณัฐพงศ์ มหาโชติ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0371",
+    "fullName": "ยศภัทร พรหมแก้ว",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0372",
+    "fullName": "คณาวุธ รอดเหล็ก",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0373",
+    "fullName": "ธนกร นะนุ่น",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0375",
+    "fullName": "ศราวุธ ชาญสุทธิกนก",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0376",
+    "fullName": "ศิริยาพร สุบิล",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0378",
+    "fullName": "อาภาพร ศรีสุวรรณ",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0379",
+    "fullName": "ลำไย โสดา",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0380",
+    "fullName": "พิรชัช ไชยสถาน",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0381",
+    "fullName": "บัณฑิตา ชัยบัณฑิต",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "SSTM0382",
+    "fullName": "สุทธิดา คำเงิน",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "SSTM",
+    "email": null
+  },
+  {
+    "empId": "TCL080",
+    "fullName": "มาริษา นุโรจน์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS058",
+    "fullName": "กุลธิดา สุระบำชาตรี",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS069",
+    "fullName": "อมรเทพ คงมะลวน",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS091",
+    "fullName": "สุกัญญา สำลีวงษ์",
+    "department": "Receiving - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS132",
+    "fullName": "ธัญญารัตน์ จันทรณะ",
+    "department": "Inventory Staff",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS142",
+    "fullName": "อารีรัตน์ ลอยฟ้า",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS145",
+    "fullName": "จุฑารัตน์ ขุนโหร",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS148",
+    "fullName": "ประภัสสร กาญจนา",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS155",
+    "fullName": "อารียา ปกิลาโพ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS161",
+    "fullName": "จิราภรณ์ อักษรทิพย์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS167",
+    "fullName": "จุลจักร เมืองเกิด",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS183",
+    "fullName": "ณัฐกมล สุขขวด",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS190",
+    "fullName": "กัลยาณี สีหาราช",
+    "department": "DC Planning & Performance Supervisor",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS191",
+    "fullName": "บรรชา จริตงาม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS205",
+    "fullName": "ณัฐวุฒิ พูลมาศ",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS221",
+    "fullName": "ซุลกิฟลี หวันสาเหล่",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS240",
+    "fullName": "ภควดี ตันสูงเนิน",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS266",
+    "fullName": "พงศ์พิศุทธิ์ พยัฆฤทธิ์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS277",
+    "fullName": "นิภาพร ขลิบเงิน",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS279",
+    "fullName": "ณิชกานต์ สิงห์แก้ว",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS283",
+    "fullName": "จุฑารัตน์ แก้วมณี",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS294",
+    "fullName": "สุรศักดิ์ เกิดสมบัติ",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS296",
+    "fullName": "วัชรินทร์ สิทธิสมบูรณ์",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS305",
+    "fullName": "อภิสิทธิ์ แซ่ลิ้ม",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS313",
+    "fullName": "เอกราช เย็นทองคำ",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS315",
+    "fullName": "กฤตนัย ธำรงไพโรจน์",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS333",
+    "fullName": "อาณัติ ขนอม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS342",
+    "fullName": "ประกิจ มัชฌิม",
+    "department": "Shipping",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS360",
+    "fullName": "หัสพงค์ แขงสิงห์",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS361",
+    "fullName": "ภานุวัฒน์ แก่นฮอง",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS362",
+    "fullName": "วรเกียรติ สวัสดิ์พงษ์",
+    "department": "Frozen - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS365",
+    "fullName": "สหชัย ราชบูลย์",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS367",
+    "fullName": "พัชรินทร์ แซ่ลิ้ม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS369",
+    "fullName": "ศศิกาญน์ อ่อนพัฒน์",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS371",
+    "fullName": "อรวี ศรีนิล",
+    "department": "Forklift - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS375",
+    "fullName": "ดรัณภพ คีรีน้อย",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS378",
+    "fullName": "ธีรศักดิ์ นนท์ทอง",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS379",
+    "fullName": "ชญานนท์ นนท์ทอง",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS380",
+    "fullName": "ธรรมนูญ เกษณี",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS381",
+    "fullName": "ณรงค์ศักดิ์ ชัยศรี",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS382",
+    "fullName": "จุฑามาศ บุญกวย",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS383",
+    "fullName": "อนุสรา เกิดไกร",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS384",
+    "fullName": "ริสา อาแด",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS385",
+    "fullName": "พรธิดา ตามาสี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS386",
+    "fullName": "ณิศรา เนียมมีศรี",
+    "department": "Pick - Ambient",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS388",
+    "fullName": "ชมพูนุช แซ่ลี้",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS389",
+    "fullName": "วันดี มีธรรม",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "SRBZS390",
+    "fullName": "นันท์นภัส กั่วพานิช",
+    "department": "Pick - Fresh",
+    "role": "RECEIVE",
+    "organization": "BUZZ",
+    "email": null
+  },
+  {
+    "empId": "S0175667",
+    "fullName": "ปกรณ์ แสงทวี",
+    "department": "Transport Operation Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186249",
+    "fullName": "ธีรพงศ์ แสงกระจ่าง",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186250",
+    "fullName": "อรวรรณ เขียวบม",
+    "department": "Document Clerk Admin",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186251",
+    "fullName": "ยุวดี วรรณศิริ",
+    "department": "Document Clerk Admin",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186253",
+    "fullName": "พิมพิศา ดาสาลี",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186254",
+    "fullName": "สุดารัตน์ แว่นแก้ว",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186255",
+    "fullName": "สุชารัตน์ โต๊ะหมัด",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186256",
+    "fullName": "พรรณิภา โลมรัตน์",
+    "department": "Document Clerk Admin",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186257",
+    "fullName": "อุทัย รักสีนวล",
+    "department": "Transport Operation Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186258",
+    "fullName": "กนกนันท์ ไชยชำนิ",
+    "department": "Transport Operation Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186259",
+    "fullName": "อรวี ฉวีวงค์",
+    "department": "Transport Operation Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186260",
+    "fullName": "จุฑามณี ทิพย์บรรพต",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186262",
+    "fullName": "มารุต เพ็ญสุวรรณ",
+    "department": "Transport Operation Team Manager",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186263",
+    "fullName": "สุธารัตน์ ถิ่นสะท้อน",
+    "department": "Document Clerk Admin",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186264",
+    "fullName": "อัจฉรา วันชมภู",
+    "department": "Finance Admin",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186265",
+    "fullName": "บุปผา ลิกขชัย",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186266",
+    "fullName": "วิไลวรรณ แซ่ตัน",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186267",
+    "fullName": "ปวันรัตน์ อ่อนกล้า",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186268",
+    "fullName": "ธัญญาเรศ จันทรณะ",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186269",
+    "fullName": "ภัทรวดี พรมศรี",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186285",
+    "fullName": "รัตวรรณ สุวรรณ",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186286",
+    "fullName": "อุเทน ทองรอบ",
+    "department": "Driver Trainer Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0186166",
+    "fullName": "จีรภา ศรีรักษา",
+    "department": "Dispatcher Staff",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  },
+  {
+    "empId": "S0198165",
+    "fullName": "สิริกร รอดเกลี้ยง",
+    "department": "Safety Supervisor",
+    "role": "RECEIVE",
+    "organization": "SDS_TH",
+    "email": null
+  }
+]

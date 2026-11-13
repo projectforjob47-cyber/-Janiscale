@@ -1,0 +1,225 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Disable WebKit yellow autofill background */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px #FFFDF9 inset !important;
+  -webkit-text-fill-color: #1F1F1F !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+/* PIN Disc Masking */
+.pin-mask {
+  -webkit-text-security: disc !important;
+}
+
+/* Thai font — Sarabun */
+body {
+  font-family: 'Sarabun', sans-serif;
+  background-color: #F7F2EA;
+  color: #1F1F1F;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+/* Large touch targets for warehouse use */
+.btn-primary {
+  @apply bg-[#12803C] hover:bg-[#0B5E2B] text-white font-bold py-3.5 px-6 rounded-2xl text-base w-full 
+         active:scale-98 transition-all shadow-md disabled:opacity-50 disabled:cursor-not-allowed;
+}
+
+.btn-secondary {
+  @apply bg-[#FFFDF9] text-[#1F1F1F] font-bold py-3.5 px-6 rounded-2xl text-base w-full 
+         active:scale-98 transition-all border border-[#E8E1D8] shadow-sm hover:bg-[#F7F2EA];
+}
+
+.btn-danger {
+  @apply bg-[#E03131] hover:bg-[#C92A2A] text-white font-bold py-3.5 px-6 rounded-2xl text-base w-full 
+         active:scale-98 transition-all shadow-md;
+}
+
+.btn-success {
+  @apply bg-[#12803C] hover:bg-[#0B5E2B] text-white font-bold py-3.5 px-6 rounded-2xl text-base w-full 
+         active:scale-98 transition-all shadow-md;
+}
+
+/* Weight input — large for warehouse use */
+.weight-input {
+  @apply text-3xl font-black text-center border-2 border-[#12803C] rounded-2xl 
+         py-3.5 px-6 w-full focus:ring-2 focus:ring-[#39A85B] focus:outline-none bg-[#FFFDF9] shadow-inner text-[#1F1F1F];
+}
+
+/* Card styles — Warm Cream & Soft White rounded cards (16-24px) */
+.card {
+  @apply bg-[#FFFDF9] rounded-2xl sm:rounded-3xl shadow-sm border border-[#E8E1D8] p-4;
+}
+
+.card-hover {
+  @apply card active:scale-98 transition-transform cursor-pointer hover:border-[#12803C]/40;
+}
+
+/* Status badges */
+.badge {
+  @apply inline-flex items-center px-3 py-1 rounded-full text-xs font-bold;
+}
+
+/* Status colors */
+.badge-waiting { @apply badge bg-[#FEF9E7] text-[#9A7D0A] border border-[#FAD7A0]; }
+.badge-pass { @apply badge bg-[#EAF7ED] text-[#12803C] border border-[#AEE0BD]; }
+.badge-fail { @apply badge bg-[#FDE8E8] text-[#E03131] border border-[#F8B4B4]; }
+.badge-pending-otm { @apply badge bg-[#F3E8FF] text-[#7950F2] border border-[#D8B4FE]; }
+.badge-missing { @apply badge bg-[#FFF0E6] text-[#F76707] border border-[#FFD8BF]; }
+.badge-finalized { @apply badge bg-[#E6F4EA] text-[#0B5E2B] border border-[#AEE0BD]; }
+.badge-offline { @apply badge bg-[#F1EFEA] text-[#6E6E6E] border border-[#E8E1D8]; }
+
+/* Signature pad canvas */
+.signature-canvas {
+  touch-action: none;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  background: #fafafa;
+  width: 100%;
+  height: 200px;
+}
+
+/* Safe area insets for notched phones & iPads */
+.safe-bottom,
+.safe-area-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.safe-top,
+.safe-area-top {
+  padding-top: env(safe-area-inset-top, 0px);
+}
+
+/* Offline banner */
+.offline-banner {
+  @apply bg-red-600 text-white text-center text-sm py-2 px-4 font-medium;
+}
+
+/* Progress bar */
+.progress-bar {
+  @apply w-full bg-gray-200 rounded-full h-3 overflow-hidden;
+}
+
+.progress-fill {
+  @apply h-3 rounded-full transition-all duration-500;
+}
+
+/* Result banners */
+.result-pass {
+  @apply bg-green-50 border-2 border-green-500 rounded-2xl p-6 text-center;
+}
+
+.result-fail {
+  @apply bg-red-50 border-2 border-red-500 rounded-2xl p-6 text-center;
+}
+
+/* Page transition */
+.page-enter {
+  animation: slideIn 0.2s ease-out;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* Active scale utility */
+.active\:scale-98:active {
+  transform: scale(0.98);
+}
+
+/* Print Stylesheet for CN Report (Only the Table Prints Cleanly, Compact & Fits 1 Page) */
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 5mm 6mm;
+  }
+
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    font-size: 11px !important;
+  }
+
+  header, nav, footer, .no-print, .print\:hidden {
+    display: none !important;
+  }
+
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+  }
+
+  .print-table-container {
+    border: 1px solid #D4D4D4 !important;
+    box-shadow: none !important;
+    border-radius: 4px !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Headings in Print capped at size 18 */
+  .print-header-brand,
+  .print-title,
+  h1 {
+    font-size: 18px !important;
+    line-height: 1.2 !important;
+  }
+
+  .print-banner-text {
+    font-size: 13px !important;
+  }
+
+  /* Table styles for print: Compact, crisp, perfect 1-page fit */
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 11px !important;
+  }
+
+  thead {
+    display: table-header-group !important;
+  }
+
+  tfoot {
+    display: table-footer-group !important;
+  }
+
+  tr {
+    page-break-inside: avoid !important;
+  }
+
+  th {
+    padding: 3px 4px !important;
+    font-size: 10px !important;
+    line-height: 1.2 !important;
+    height: auto !important;
+  }
+
+  td {
+    padding: 2.5px 4px !important;
+    font-size: 10.5px !important;
+    line-height: 1.25 !important;
+    height: auto !important;
+  }
+
+  /* Make sure large number spans don't inflate rows in print */
+  td span,
+  td div {
+    font-size: inherit !important;
+    line-height: 1.2 !important;
+  }
+}
